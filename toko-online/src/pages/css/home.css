@@ -1,0 +1,10 @@
+.p {
+    background: skyblue;
+    border-radius: 10px;
+    width: 15%;
+    height: 3rem;
+    text-align: center;
+    margin-left: 5%;
+    font-size: 2rem;
+    color: white;
+}

@@ -1,0 +1,57 @@
+/* Footer */
+.footer {
+    margin-top: 20px;
+    height: 20rem;
+    background-color: #E6F1FF;
+    color: black;
+    padding: 3rem;
+}
+
+.cls {
+    margin-left: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.custom-link {
+    color: inherit; /* Menggunakan warna teks yang diwarisi dari parent */
+    text-decoration: none; /* Menghilangkan garis bawah */
+  }
+
+.Boxs {
+    margin-top: 8px;
+    width: 19rem;
+    height: 8rem;
+    border-radius: 15px;
+    background: #6CADFF;
+}
+
+.boxs1 {
+    width: 8rem;
+    height: 2rem;
+    background: #9FCAFF;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.boxs2 {
+    width: 8rem;
+    height: 2rem;
+    background: #9FCAFF;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.build {
+    background: #D9D9D9;
+    border-radius: 10px;
+    width: 18rem;
+    height: 2rem;
+    margin-left: 36%;
+    margin-top: 60px;
+}
+
+/* End Footer */
+
+
+/* 9FCAFF */

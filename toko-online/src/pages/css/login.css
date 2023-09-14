@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.back{
+    height: 79vh;
+}
+.item{
+    margin: 10px 0;
+    display: block;
+}
+.one{
+    border: none;
+}
+.forgot{
+    margin-top: 20px;
+    display: block;
+}
+.gambar{
+    margin-top: 4rem;
+}
+.footer1{
+    height: 9rem;
+    background: #E6F1FF;
+    text-align: center;
+}
+
+.footer1 .dr{
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+}
