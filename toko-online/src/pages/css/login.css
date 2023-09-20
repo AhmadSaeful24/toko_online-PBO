@@ -17,14 +17,15 @@
 .gambar{
     margin-top: 4rem;
 }
-.footer1{
-    height: 9rem;
-    background: #E6F1FF;
-    text-align: center;
-}
 
-.footer1 .dr{
-    text-decoration: none;
+.rb{
+    padding: 2rem;
+    margin-top: 1.3rem;
+    background: rgb(0, 138, 193);
+    text-align: center;
+  }
+  
+  .foot-menu a {
     color: black;
-    margin: 5px;
-}
+    text-decoration: none;
+  }

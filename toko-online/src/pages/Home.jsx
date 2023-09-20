@@ -14,8 +14,8 @@ const Home = () => {
       <div style={{ marginTop: "1rem", marginBottom: "3rem" }} className="border-bottom border-dark border-3"></div>
       <h1 className="p">Kategori 1</h1>
       <Card />
-      {/* <h1 className="p">Kategori 2</h1>
-      <Card /> */}
+      <h1 className="p">Kategori 2</h1>
+      <Card />
       <div style={{ marginTop: "1rem", marginBottom: "3rem" }} className="border-bottom border-dark border-3"></div>
       <Footer />
     </div>
